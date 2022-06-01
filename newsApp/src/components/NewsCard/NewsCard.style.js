@@ -20,6 +20,6 @@ export default StyleSheet.create({
         fontSize:13,
     },
     description:{
-        fontSize:15
+        fontWeight:"bold"
     }
 })
